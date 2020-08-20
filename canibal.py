@@ -1,13 +1,3 @@
-"""
-Missionarios e canibais
-Autor: Fernando Risso
-Preciso recuperar apenas o RA5
-Missionario = 1
-canibal = 0
-True = Esquerda
-False = Direita
-"""
-
 
 def colocar_missionario(margen1, margen2, barco, barco_switch):
     """
